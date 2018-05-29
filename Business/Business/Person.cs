@@ -5,8 +5,11 @@ using System.Text;
 
 namespace Business
 {
-    public class Obj1
+    public class Person
     {
         public string Nom { get; set; }
+
+        public string Prenom { get; set; }
+
     }
 }
